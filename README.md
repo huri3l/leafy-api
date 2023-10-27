@@ -55,4 +55,4 @@ Agora, sua aplicação Fastify deve estar em execução. Abra um navegador e ace
 Este projeto demonstra como aproveitar essas tecnologias para atender às necessidades de diferentes tipos de aplicativos e serviços.
 
 ## Documentação
-A documentação do projeto foi gerada automaticamente através dos testes do Postman. Essa documentação pode ser acessada [aqui](https://documenter.getpostman.com/view/15249563/2s9YJeyMNt).
+A documentação do projeto foi gerada automaticamente através dos testes do Postman. Essa documentação pode ser acessada [aqui]([https://documenter.getpostman.com/view/15249563/2s9YJeyMNt](https://documenter.getpostman.com/view/15249563/2s9YRGw8K4).
